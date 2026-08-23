@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yağız
 
-<!--
-**ygzmert0707/ygzmert0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science (Game Engineering) student at Newcastle University, preparing for a 2027 industrial placement.
 
-Here are some ideas to get you started:
+## Current focus
+- Learning C++ and Unreal Engine
+- Building stronger Git and software-testing habits
+- Developing GamePulse, a gameplay and telemetry portfolio project
+- Preparing for gameplay, tools and software-engineering placements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current technologies
+- Java
+- C
+- Python
+- MySQL
+- Git
+
+## Contact
+LinkedIn: (https://www.linkedin.com/in/ya%C4%9F%C4%B1z-mert-48b828359/?skipRedirect=true)
