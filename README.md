@@ -5,7 +5,7 @@ I am a Computer Science (Game Engineering) student at Newcastle University, prep
 ## Current focus
 - Learning C++ and Unreal Engine
 - Building stronger Git and software-testing habits
-- Developing GamePulse, a gameplay and telemetry portfolio project
+- Developing Project Hercules, a gameplay and telemetry portfolio project
 - Preparing for gameplay, tools and software-engineering placements
 
 ## Current technologies
